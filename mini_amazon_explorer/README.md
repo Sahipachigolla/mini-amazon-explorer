@@ -97,11 +97,8 @@ Build the application for production:
 ```bash
 npm run build
 ```
+## 🙋‍♀️ Author
 
-## 🙏 Acknowledgments
+**Pachigolla Sai Krishna Naga Sahithi**  
+Frontend Developer | API Explorer | Building Projects to Learn
 
-- Built with [Rocket.new](https://rocket.new)
-- Powered by React and Vite
-- Styled with Tailwind CSS
-
-Built with ❤️ on Rocket.new
