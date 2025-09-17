@@ -2,6 +2,7 @@
   "name": "mini-amazon-explorer",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Sahipachigolla.github.io/mini-amazon-explorer",
   "rocketCritical": {
     "dependencies": [
       "@dhiwise/component-tagger",
