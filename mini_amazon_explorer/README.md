@@ -100,5 +100,5 @@ npm run build
 ## 🙋‍♀️ Author
 
 **Pachigolla Sai Krishna Naga Sahithi**  
-Frontend Developer | API Explorer | Building Projects to Learn
+Frontend Developer| Building Projects to Learn
 
